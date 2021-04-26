@@ -13,6 +13,8 @@ function reg (num) {
         str = str.replace(/\d(?<=\d{3})/g, (res) => ',' + res);
     }
     return str;
+
+    lsllsslslsll
 }
 
 console.log(reg(1736152097.88));
